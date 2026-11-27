@@ -22,6 +22,8 @@ The **Last Coast** preview uses [rocky coastline footage by Taryn Elliott](https
 
 The **Velvet Hours** preview uses [rainy-window footage by Gustavo Fring](https://www.pexels.com/video/woman-looking-through-the-window-6870457/) under the [Pexels license](https://www.pexels.com/license/).
 
+The **Wild Meridian** preview uses [Alpine ibex footage by Nicky Pe](https://www.pexels.com/video/alpine-ibex-lying-on-a-mossy-rock-15015219/) under the [Pexels license](https://www.pexels.com/license/).
+
 ## Environment
 
 Copy `.env.example` to `.env` and fill the Firebase web configuration. Enable Email/Password and Google in Firebase Authentication and authorize `localhost` for local testing. TMDB configuration is optional for the current catalog.
