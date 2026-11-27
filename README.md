@@ -20,6 +20,8 @@ The **After the Signal** preview uses [control-room stock footage by Media Hoppe
 
 The **Last Coast** preview uses [rocky coastline footage by Taryn Elliott](https://www.pexels.com/video/waves-crashing-on-a-rocky-shore-7046541/) under the [Pexels license](https://www.pexels.com/license/).
 
+The **Velvet Hours** preview uses [rainy-window footage by Gustavo Fring](https://www.pexels.com/video/woman-looking-through-the-window-6870457/) under the [Pexels license](https://www.pexels.com/license/).
+
 ## Environment
 
 Copy `.env.example` to `.env` and fill the Firebase web configuration. Enable Email/Password and Google in Firebase Authentication and authorize `localhost` for local testing. TMDB configuration is optional for the current catalog.
